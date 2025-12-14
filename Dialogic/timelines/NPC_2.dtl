@@ -1,0 +1,9 @@
+Buenas tardes caballero...
+le dare a elegir 2 opciones
+Esta desición es importante, ya que determinara el destino de la aldea
+- Aguacate
+	Interesante elección joven, mucha gente piensa que es una verdura, pero en realidad es una fruta jasjasjdad
+	[signal arg="Has elegido el Aguacate"]
+- Tomate
+	Ohhh... una elección grandiosa joven jkasjsjasdj
+	[signal arg="Has elegido el Tomate"]
